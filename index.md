@@ -6,10 +6,6 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 ### Seminars
 * (2023Fall)A  [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
 * (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
-* (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [chenglong yu](https://chenglongyu.github.io/),
-   - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf).
-   - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf).
- * (2022Summer, last updated 2023/01/30) Here is the draft of lecture note I typed for a seminar about [commutative algebra](notes/2022Summer/commutative_algebra.pdf).
 
 
 ### Course notes
