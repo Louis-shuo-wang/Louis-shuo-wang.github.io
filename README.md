@@ -3,14 +3,13 @@
 Hello, I'm Shuo Wang, a first-year Ph.D. student from the Department of Mathematics of City University of Hong Kong form Sep. 2023, under the supervision of Wing Cheong LO. My research interest lies in Mathematical biology.
 My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1392 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes, and comments are welcome. Thanks in advance for your attention.
 
+
 ### Seminars
 * (2023Fall)A  [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
-* (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
 
 
 ### Course notes
 * (2023Fall)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
-
 
 
 ### Personal notes/slides
@@ -26,8 +25,6 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 * (2024Winter)[Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
 * (2023Fall)Solutions of homework of [Algebra1](notes/2023Fall/Solutions_to_HW.pdf)
 
-
-   
-   
+ 
 ### Travel
 * Jan 22 - Jan 26, 2024, [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4588/6088.htm), Fudan University, Shanghai, China.
