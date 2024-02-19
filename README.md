@@ -1,4 +1,3 @@
-# surwing-biomath.github.io
 ### Welcome to my homepage!
 Hello, I'm Shuo Wang, a first-year Ph.D. student from [Department of Mathematics](https://www.cityu.edu.hk/ma/) of City University of Hong Kong from Sep. 2023, under the supervision of [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology.
 
