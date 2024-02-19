@@ -1,6 +1,6 @@
 # surwing-biomath.github.io
 ### Welcome to my homepage!
-Hello, I'm Shuo Wang, a first-year Ph.D. student from the Department of Mathematics of City University of Hong Kong form Sep. 2023, under the supervision of Wing Cheong LO. My research interest lies in Mathematical biology.
+Hello, I'm Shuo Wang, a first-year Ph.D. student from the Department of Mathematics of City University of Hong Kong from Sep. 2023, under the supervision of [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology.
 My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1392 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes, and comments are welcome. Thanks in advance for your attention.
 
 
@@ -24,7 +24,3 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 ### TA
 * (2024Winter)[Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
 * (2023Fall)Solutions of homework of [Algebra1](notes/2023Fall/Solutions_to_HW.pdf)
-  
-   
-### Travel
-* Jan 22 - Jan 26, 2024, [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4588/6088.htm), Fudan University, Shanghai, China.
