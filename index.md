@@ -1,5 +1,5 @@
 ### Welcome to my homepage!
-Hello, I'm Shuo Wang, a first-year Ph.D. student from [Department of Mathematics](https://www.cityu.edu.hk/ma/) of City University of Hong Kong from Sep. 2023, under the supervision of [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology.
+Hello, I'm Shuo Wang, a first-year Ph.D. student from [Department of Mathematics](https://www.cityu.edu.hk/ma/) of City University of Hong Kong from Sep. 2023, under the supervision of Prof. [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology.
 
 My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1392 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes, and comments are welcome. Thanks in advance for your attention.
 
