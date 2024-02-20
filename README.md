@@ -5,11 +5,6 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 
 
 
-### Course notes
-* (2023Fall)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
-
-
-
 ### Personal notes/slides
 #### Slides
 * (Last updated 2023/09/12)[Correspondence between Lie groups and Lie algebras](notes/Correspondence between Lie groups and Lie algebras/corresponence.pdf). I typed this slide to give a basic introduction to manifold theory, Lie theory (including Lie groups, Lie algebras, and fundamental theorems), and some simple applications to ODE systems. The main references are Frank W. Warner's book: [Foundations of Differentiable Manifolds and Lie Groups](https://link.springer.com/book/10.1007/978-1-4757-1799-0), and John M. Lee's book: [Introduction to Smooth Manifolds](https://link.springer.com/book/10.1007/978-1-4419-9982-5).
