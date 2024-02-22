@@ -8,7 +8,7 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 ### Personal notes/slides
 
 #### Notes
-* (Last updated Dec. 2023)[Functional Analysis Note](notes/Correspondence between Lie groups and Lie algebras/functional analysis note.pdf)
+* (Last updated Dec. 2023)[Functional Analysis Note](notes/Correspondence between Lie groups and Lie algebras/functional analysis note.pdf). This is a lecture note on Functional Analysis lectured by Prof. [MERTZ Laurent](https://www.cityu.edu.hk/stfprofile/laurent-mertz.htm). I will update advanced topics in functional analysis to this note when I'm available.
 
 
 #### Slides
