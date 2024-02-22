@@ -9,7 +9,7 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 
 #### Notes
 * (Last updated Dec. 2023)[Functional Analysis Note](notes/Correspondence between Lie groups and Lie algebras/functional analysis note.pdf). This is a lecture note on Functional Analysis lectured by Prof. [MERTZ Laurent](https://www.cityu.edu.hk/stfprofile/laurent-mertz.htm). I will update advanced topics in functional analysis to this note when I'm available.
-* (Last updated Feb. 2024)[Review of TOpology](notes/Correspondence between Lie groups and Lie algebras/review of topology.pdf). This note is a quick review of topology, including point set topology and algebraic topology. I will finish the first part about point set topology this month, and update algebraic topology when I'm available. 
+* (Last updated Feb. 2024)[Review of Topology](notes/Correspondence between Lie groups and Lie algebras/review of topology.pdf). This note is a quick review of topology, including point set topology and algebraic topology. I will finish the first part about point set topology this month, and update algebraic topology when I'm available. 
 
 
 #### Slides
