@@ -7,7 +7,7 @@ Analysis: (1: Fourier Analysis and Sobolev Spaces, 2: Measure Theory, 3: Stochas
 
 Algebra: (1: Lie Groups and Lie algebras, 2: Commutative Algebra, 3: Homological Algebra, 4: Category Theory, 5: Representation Theory (Mainly about Representations of Finite Groups)).
 
-Geometry and Topology: (1: Manifold Theory, 2: Algebraic Topology, 3: Algebraic Geometry.)
+Geometry and Topology: (1: Manifold Theory, 2: Algebraic Topology, 3: Algebraic Geometry).
 
 My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1392 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes, and comments are welcome. Thanks in advance for your attention.
 
