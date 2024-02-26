@@ -4,6 +4,9 @@ Hello, I'm Shuo Wang, a first-year Ph.D. student from [Department of Mathematics
 My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1392 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes, and comments are welcome. Thanks in advance for your attention.
 
 
+### Graduation Thesis
+* (Last updated in May. 2022)[The universal covering group of SO(3) and its applications in representation theory](notes/Correspondence between Lie groups and Lie algebras/functional analysis note.pdf)
+
 
 ### Personal notes/slides
 
