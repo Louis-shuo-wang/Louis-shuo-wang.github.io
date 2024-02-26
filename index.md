@@ -1,5 +1,8 @@
 ### Welcome to my homepage!
-Hello, I'm Shuo Wang, a first-year Ph.D. student from [Department of Mathematics](https://www.cityu.edu.hk/ma/) of [City University of Hong Kong](https://www.cityu.edu.hk) from Sep. 2023, under the supervision of Prof. [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology. I'm also interested in updating personal notes in pure math, with topics including Fourier Analysis and Sobolev Spaces, Lie Groups and Lie algebras, Manifold Theory, Algebraic Topology, Algebraic Geometry, Commutative Algebra, Homological Algebra, Category Theory, Representation Theory (Mainly about Representation of Finite Groups), etc.
+Hello, I'm Shuo Wang, a first-year Ph.D. student from [Department of Mathematics](https://www.cityu.edu.hk/ma/) of [City University of Hong Kong](https://www.cityu.edu.hk) from Sep. 2023, under the supervision of Prof. [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology. I'm also interested in updating personal notes in pure math, with topics including 
+Analysis:              (1:Fourier Analysis and Sobolev Spaces, 2:Measure Theory, 3:Stochastic Analysis, 4:Dynamical System, 5:Functional Analysis.)
+Algebra:               (1:Lie Groups and Lie algebras, 2:Commutative Algebra, 3:Homological Algebra, 4:Category Theory, 5:Representation Theory (Mainly about Representations of Finite Groups).)
+Geometry and Topology: (1:Manifold Theory, 2:Algebraic Topology, 3:Algebraic Geometry.)
 
 My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1392 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes, and comments are welcome. Thanks in advance for your attention.
 
