@@ -4,8 +4,12 @@ Hello, I'm Shuo Wang, a first-year Ph.D. student from [Department of Mathematics
 My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1392 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes, and comments are welcome. Thanks in advance for your attention.
 
 
+### CV
+* (Last updated in Dec. 2022)[CV](notes/Correspondence between Lie groups and Lie algebras/cv.docx)
+
+
 ### Graduation Thesis
-* (Last updated in May. 2022)[The universal covering group of SO(3) and its applications in representation theory](notes/Correspondence between Lie groups and Lie algebras/functional analysis note.pdf)
+* (Last updated in May. 2022)[The universal covering group of SO(3) and its applications in representation theory](notes/Correspondence between Lie groups and Lie algebras/graduation thesis.pdf). It gives an introduction to the universal covering group SU(2) of SO(3), (to be precise, double covering group): SU(2) is the double covering space of SO(3): SU(2) is the unit sphere in $\mathbb{R}^{4}$, SO(3) is the real projective space $\mathbb{RP}^{3}$. When considering the Lie group structure, SU(2) becomes the universal covering group of SO(3). The finite subgroups of SO(3) are known, and it is given by Mckay corresponding; we then can use the double covering relation to find the finite subgroups of SU(2). At last, the class of irreducible representations of SU(2) is known, and we also use the double covering relation to find to class of irreducible representations of SO(3).
 
 
 ### Personal notes/slides
