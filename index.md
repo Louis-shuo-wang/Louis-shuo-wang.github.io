@@ -5,7 +5,7 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 
 
 ### CV
-* (Last updated in Dec. 2022)[CV](notes/Correspondence between Lie groups and Lie algebras/cv.docx)
+* (Last updated in Dec. 2022) You can find my [CV](notes/Correspondence between Lie groups and Lie algebras/cv.docx) here. I haven't updated my postgraduate background, and am considering updating my CV when available.
 
 
 ### Graduation Thesis
