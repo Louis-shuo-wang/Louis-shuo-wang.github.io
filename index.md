@@ -29,3 +29,9 @@ My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstati
 
 #### Slides
 * (Last updated Feb. 2024)[Correspondence between Lie groups and Lie algebras](notes/Correspondence between Lie groups and Lie algebras/correspondence.pdf). I typed this slide to give a basic introduction to manifold theory, Lie theory (including Lie groups, Lie algebras, and fundamental theorems), and some simple applications to ODE systems. The main references are Frank W. Warner's book: [Foundations of Differentiable Manifolds and Lie Groups](https://link.springer.com/book/10.1007/978-1-4757-1799-0), and [John M. Lee](https://sites.math.washington.edu/~lee/)'s book: [Introduction to Smooth Manifolds](https://link.springer.com/book/10.1007/978-1-4419-9982-5).
+
+
+### Conferences and Summer School
+
+#### Conferences
+* (19th - 22nd Jun. 2024)[PolyU-SJTU Joint Conference on Mathematical Biology – Models and Analysis]. This [Mathematical Biology Conference](https://events.polyu.edu.hk/polyusjtu/home) is organized at Polytechnic University of Hong Kong between 19th and 22nd Jun. 2024. The goal of this conference is to bring together the experts around world on mathematical biology to enhance the communication and foster research collaboration. Through various research talks reporting the progresses made on the modeling, analysis, experiments and field surveys, the conference aims to provide a platform to exchange mutual ideas, identify cutting-edge research topics and foster high-quality collaborations in the field of mathematical biology, as well as to get a panoramic view of the research development in this field. You can find some pictures about me here (img/picture1.JPG),(img/Picture2.JPG).  
