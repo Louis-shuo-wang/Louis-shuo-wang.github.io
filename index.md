@@ -10,9 +10,7 @@ Hello, I'm Shuo Wang, a Ph.D. candidate from Department of Mathematics of [City 
 * (Last updated in May. 2022)[The universal covering group of SO(3) and its applications in representation theory](notes/graduation thesis.pdf). It gives an introduction to the universal covering group SU(2) of SO(3), (to be precise, double covering group): SU(2) is the double covering space of SO(3): SU(2) is the unit sphere in $\mathbb{R}^{4}$, SO(3) is the real projective space $\mathbb{RP}^{3}$. When considering the Lie group structure, SU(2) becomes the universal covering group of SO(3). The finite subgroups of SO(3) are known, and it is given by the [Mckay correspondence](https://en.m.wikipedia.org/wiki/ADE_classification); we then can use the double covering relation to find the finite subgroups of SU(2). At last, the class of irreducible representations of SU(2) is known, and we also use the double covering relation to find the class of irreducible representations of SO(3).
 
 
-### Personal notes/slides
-
-#### Slides
+### Slides
 * (Last updated Feb. 2024)[Correspondence between Lie groups and Lie algebras](notes/correspondence.pdf). I typed this slide to give a basic introduction to manifold theory, Lie theory (including Lie groups, Lie algebras, and fundamental theorems), and some simple applications to ODE systems. The main references are Frank W. Warner's book: [Foundations of Differentiable Manifolds and Lie Groups](https://link.springer.com/book/10.1007/978-1-4757-1799-0), and [John M. Lee](https://sites.math.washington.edu/~lee/)'s book: [Introduction to Smooth Manifolds](https://link.springer.com/book/10.1007/978-1-4419-9982-5).
 
 
