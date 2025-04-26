@@ -1,15 +1,7 @@
 ### Welcome to my homepage!
-Hello, I'm Shuo Wang, a second-year Ph.D. student from [Department of Mathematics](https://www.cityu.edu.hk/ma/) of [City University of Hong Kong](https://www.cityu.edu.hk) from Sep. 2023, under the supervision of Prof. [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology, especially cancer research, and I am particularly interested in applying differential equation models (i.e., ODE and dynamical systems, PDE, SDE (stochastic), functional or delay differential equations with bifurcation tools) to study cancer problems.
+Hello, I'm Shuo Wang, a Ph.D. candidate from Department of Mathematics of [City University of Hong Kong](https://www.cityu.edu.hk) from Sep. 2023, under the supervision of Prof. [Wing Cheong LO](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research interest lies in Mathematical biology, especially cancer research, and I am particularly interested in applying differential equation models (i.e., ODE and dynamical systems, PDE, SDE (stochastic), functional or delay differential equations with bifurcation tools) to study cancer problems.
 
-I'm also interested in updating personal notes in pure math, with topics including:
-
-Analysis: (1: Fourier Analysis and Sobolev Spaces, 2: Measure Theory, 3: Stochastic Analysis, 4: Dynamical System, 5: Functional Analysis).
-
-Algebra: (1: Lie Groups and Lie algebras, 2: Commutative Algebra, 3: Homological Algebra, 4: Category Theory, 5: Representation Theory (Mainly about Representations of Finite Groups)).
-
-Geometry and Topology: (1: Manifold Theory, 2: Algebraic Topology, 3: Algebraic Geometry).
-
-My email is swang666-c@my.cityu.edu.hk or surwing912@gmail.com, and my workstation is in Room 1396 of Fong Yun-Wah Building. Please contact me if you find any mistakes in my notes; comments are welcome. Thanks in advance for your attention.
+My email is surwing912@gmail.com. Please get in touch with me if you find any mistakes in my notes; comments are welcome. Thanks in advance for your attention.
 
 
 ### CV
