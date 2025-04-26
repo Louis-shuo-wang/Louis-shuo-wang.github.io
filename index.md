@@ -3,7 +3,7 @@ Hello, I'm Shuo Wang, a Ph.D. candidate from Department of Mathematics of [City 
 
 
 ### CV
-* (Last updated in Dec. 2022) You can find my [CV] here. I haven't updated my postgraduate background, and am considering updating my CV when available.
+* You can find my [CV](notes/CV.docx) here.
 
 
 ### Graduation Thesis
