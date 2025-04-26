@@ -25,4 +25,5 @@ Hello, I'm Shuo Wang, a Ph.D. candidate from Department of Mathematics of [City 
   <img src="img/PolyU-SJTU Joint Conference on Mathematical Biology – Models and Analysis/picture1.JPG" width="45%" alt="PolyU‑SJTU Photo 1" />
   <img src="img/PolyU-SJTU Joint Conference on Mathematical Biology – Models and Analysis/picture2.JPG" width="45%" alt="PolyU‑SJTU Photo 2" />
 </p>
-* (8th - 30th Jul. 2024)[Summer School on Applied Mathematics in Peking University](https://www.math.pku.edu.cn/amel/sqxx/157587.htm). The syllabus of the four courses can be found [here](https://www.math.pku.edu.cn/amel/sqxx/157568.htm). 
+
+* (8th - 30th Jul. 2024)[Summer School on Applied Mathematics in Peking University](https://www.math.pku.edu.cn/amel/sqxx/157587.htm). This summer school is a training program for interdisciplinary academic elites. Interdisciplinary research is the mainstream direction of scientific research in the world, and this program is based on the requirements of interdisciplinary development. By inviting well-known scholars in this field at home and abroad to give lectures, the course syllabus of this summer school covers the fields of scientific computing, machine learning, mathematical optimization, stochastic analysis, and artificial intelligence. The syllabus of the four courses can be found [here](https://www.math.pku.edu.cn/amel/sqxx/157568.htm). 
